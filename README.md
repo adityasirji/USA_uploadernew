@@ -9,6 +9,6 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/piyush4014/USA_uploader/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/piyush4014/USA_uploader">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
