@@ -29,9 +29,9 @@ load_dotenv()
 os.makedirs("./downloads", exist_ok=True)
 API_ID = 24025904
 API_HASH = "99df12238aa5f847a4b52e8132c543fb"
-BOT_TOKEN = "6442716787:AAHQ-EOYBWGwl3O_BeNSrXVkEABe2h6eUbE"
+BOT_TOKEN = "6520627987:AAH2-UXXN6PQdwx2157WyuOhmM7r_Wt60ps"
 AUTH_USERS = 5442868227
-sudo_users = [-1001956777140]
+sudo_users = [-1001852714606]
 bot = Client(
     "bot",
     bot_token=BOT_TOKEN,
