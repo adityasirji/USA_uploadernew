@@ -27,9 +27,7 @@ DEF_FORMAT = "480"
 from dotenv import load_dotenv
 load_dotenv()
 os.makedirs("./downloads", exist_ok=True)
-API_ID = 29595682
-API_HASH = "acfc97cf83b77467dcc79ac5eea4f7f2"
-BOT_TOKEN = "6605529716:AAE_hKtoMCSGYsEI5EvBJHGhZCefQ4in4QQ"
+
 AUTH_USERS = 6674083654
 sudo_users = [-1001689381678]
 bot = Client(
