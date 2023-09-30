@@ -5,7 +5,7 @@
 
     "description": "A Modular telegram bot.",
 
-    "repository": "https://github.com/piyush4014/USA_uploader",
+    "repository": "https://github.com/pjvip/USA_uploader",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
